@@ -1,0 +1,12 @@
+{
+    "clusters": [
+        { "value": "", "label": "Please select cluster" },
+        { "value": "c1", "label": "C1" },
+        { "value": "c2", "label": "C2" }            
+      ],
+    "projectTypes": [
+        { "value": "", "label": "Please select project type" },
+        { "value": "p1", "label": "P1" },
+        { "value": "p2", "label": "P2" }            
+      ]
+}
