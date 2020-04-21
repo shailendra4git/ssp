@@ -1,24 +1,24 @@
 {
     "clusters": [
         {
-            "group": "dev",
-            "groupvalue": [
+            "cluster": "dev",
+            "env": [
                 { "value": "a1", "label": "A1" }
             ]
         },
         {
-            "group": "test",
-            "groupvalue": [
+            "cluster": "test",
+            "env": [
                 { "value": "b2", "label": "B2" },                
                 { "value": "c1", "label": "C1" }
             ]
         },
         {
-            "group": "prod",
-            "groupvalue": [
+            "cluster": "prod",
+            "env": [
                 { "value": "d1", "label": "D1" },
-        { "value": "e1", "label": "E1" },
-        { "value": "f2", "label": "F2" }
+                { "value": "e1", "label": "E1" },
+                { "value": "f2", "label": "F2" }
             ]
         }
     ],
