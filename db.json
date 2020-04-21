@@ -1,20 +1,20 @@
 {
     "clusters": [
         {
-            "cluster": "dev",
+            "clustername": "dev",
             "env": [
                 { "value": "a1", "label": "A1" }
             ]
         },
         {
-            "cluster": "test",
+            "clustername": "test",
             "env": [
                 { "value": "b2", "label": "B2" },                
                 { "value": "c1", "label": "C1" }
             ]
         },
         {
-            "cluster": "prod",
+            "clustername": "prod",
             "env": [
                 { "value": "d1", "label": "D1" },
                 { "value": "e1", "label": "E1" },
