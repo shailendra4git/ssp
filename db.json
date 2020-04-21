@@ -1,8 +1,20 @@
 {
     "clusters": [
-        { "value": "", "label": "Please select cluster" },
-        { "value": "c1", "label": "C1" },
-        { "value": "c2", "label": "C2" }            
+        {
+            "dev": [
+                { "value": "a1", "label": "A1" }
+            ],
+            "test": [
+                { "value": "b2", "label": "B2" },                
+                { "value": "c1", "label": "C1" }
+            ],
+            "prod": [
+                { "value": "d1", "label": "D1" },
+                { "value": "e1", "label": "E1" },
+                { "value": "f2", "label": "F2" }
+            ]
+        }
+                    
       ],
     "projectTypes": [
         { "value": "", "label": "Please select project type" },
