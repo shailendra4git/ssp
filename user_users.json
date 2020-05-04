@@ -1,0 +1,9 @@
+{
+  "users": [
+      { "value": "adam", "label": "Adam" },
+      { "value": "bob", "label": "Bob" },
+      { "value": "don", "label": "Don" },
+      { "value": "john", "label": "John" },        
+      { "value": "sam", "label": "Sam" }
+    ]
+}
