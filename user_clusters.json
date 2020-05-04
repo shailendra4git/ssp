@@ -1,0 +1,43 @@
+{
+  "clusters": [
+    {
+      "clustername": "dev",
+      "env": [
+        {
+          "value": "a1",
+          "label": "A1"
+        }
+      ]
+    },
+    {
+      "clustername": "test",
+      "env": [
+        {
+          "value": "b2",
+          "label": "B2"
+        },
+        {
+          "value": "c1",
+          "label": "C1"
+        }
+      ]
+    },
+    {
+      "clustername": "prod",
+      "env": [
+        {
+          "value": "d1",
+          "label": "D1"
+        },
+        {
+          "value": "e1",
+          "label": "E1"
+        },
+        {
+          "value": "f2",
+          "label": "F2"
+        }
+      ]
+    }
+  ]
+}
