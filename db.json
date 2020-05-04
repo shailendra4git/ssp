@@ -1,30 +1,9 @@
 {
-    "clusters": [
-        {
-            "clustername": "dev",
-            "env": [
-                { "value": "a1", "label": "A1" }
-            ]
-        },
-        {
-            "clustername": "test",
-            "env": [
-                { "value": "b2", "label": "B2" },                
-                { "value": "c1", "label": "C1" }
-            ]
-        },
-        {
-            "clustername": "prod",
-            "env": [
-                { "value": "d1", "label": "D1" },
-                { "value": "e1", "label": "E1" },
-                { "value": "f2", "label": "F2" }
-            ]
-        }
-    ],
-    "projectTypes": [
-        { "value": "", "label": "Please select project type" },
-        { "value": "p1", "label": "P1" },
-        { "value": "p2", "label": "P2" }            
+    "users": [
+        { "value": "adam", "label": "Adam" },
+        { "value": "bob", "label": "Bob" },
+        { "value": "don", "label": "Don" },
+        { "value": "john", "label": "John" },        
+        { "value": "sam", "label": "Sam" }
       ]
 }
