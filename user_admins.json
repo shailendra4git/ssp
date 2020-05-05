@@ -1,4 +1,6 @@
 {
-  "groupname": "abc",
-  "users": ["Adam", "Bob","Don", "John","Sam"]
+  "admingroupname": "abc",
+  "admins": ["Adam", "Bob", "Don"],
+  "usergroupname": "xyz",
+  "users": ["John", "Sam", "Zampa"]
 }
