@@ -1,9 +1,0 @@
-{
-  "projects": [
-      { "value": "p1", "label": "P1" },
-      { "value": "p2", "label": "P2" },
-      { "value": "p3", "label": "P3" },
-      { "value": "p4", "label": "P4" },        
-      { "value": "p5", "label": "P5" }
-    ]
-}
